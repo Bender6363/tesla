@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="467" viewBox="0 0 1440 467">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 250px;
+        opacity: 0.8;
+        fill: #fde8eb;
+        text-anchor: middle;
+        font-family: TESLA;
+      }
+    </style>
+  </defs>
+  <text id="TESLA" class="cls-1" x="735.286" y="311.279"><tspan x="735.286">TESLA</tspan></text>
+</svg>

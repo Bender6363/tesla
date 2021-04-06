@@ -1,0 +1,44 @@
+/*normal normal вЂ” Montserrat-Regular*/
+@font-face {
+    font-family: "MontserratFont";
+    src: url("../fonts/Montserrat-Regular.ttf") format("ttf"), url("../fonts/Montserrat-Regular.woff") format("woff"),
+        url("../fonts/Montserrat-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*500 normal вЂ” Montserrat-Medium*/
+@font-face {
+    font-family: "MontserratFont";
+    src: url("../fonts/Montserrat-Medium.ttf") format("ttf"), url("../fonts/Montserrat-Medium.woff") format("woff"),
+        url("../fonts/Montserrat-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*600 normal вЂ” Montserrat-SemiBold*/
+@font-face {
+    font-family: "MontserratFont";
+    src: url("../fonts/Montserrat-SemiBold.ttf") format("ttf"), url("../fonts/Montserrat-SemiBold.woff") format("woff"),
+        url("../fonts/Montserrat-SemiBold.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+}
+
+/*bold normal вЂ” Montserrat-Bold*/
+@font-face {
+    font-family: "MontserratFont";
+    src: url("../fonts/Montserrat-Bold.ttf") format("ttf"), url("../fonts/Montserrat-Bold.woff") format("woff"),
+        url("../fonts/Montserrat-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "TESLA";
+    src: url("TESLA.eot");
+    src: local("TESLA Regular"), local("TESLA"), url("TESLA.eot?#iefix") format("embedded-opentype"),
+        url("TESLA.woff") format("woff"), url("TESLA.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
